@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Project)](https://git.io/typing-svg)
 
 Status of last Deployment:<br>
-<img src='https://github.com/fdkovalevv/Tp2/workflows/CICD/badge.svg?branch=master'><br>
+<img src='https://github.com/fdkovalevv/Tp2/workflows/CICD/badge.svg?branch=develop-1'><br>
 
 
 ![](https://komarev.com/ghpvc/?username=fdkovalevv)
