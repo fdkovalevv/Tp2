@@ -19,9 +19,9 @@ Status of last Deployment:<br>
 
 Ссылка на программу, проверяющую время работы программы в зависимости от количества цифр в файле.[тут](https://github.com/fdkovalevv/eqwewq/blob/master/checking_time_program.py)
 
-Ссылка на канал с ботом.[тут](https://t.me/tztp2)
+Ссылка на канал с ботом.[тут](https://t.me/tz2tp)
 
-Один из возможных графиков(все они похожи):
+Один из возможных графиков:
 
 
 
